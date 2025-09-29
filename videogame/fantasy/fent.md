@@ -13,5 +13,5 @@ Fantasy is a genre of fiction that contains magic, supernatural creatures, and m
 
    
 ### Explore two  Fantasy games here!!
-[The Legend Of Zelda: Tears Of the Kingdom](totk/.md) [Life Is Strange](strangelife/strangelife.md)
+[The Legend Of Zelda: Tears Of the Kingdom](totk/zelda.md) [Baldurs Gate 3](baldursgate3/bg3.md)
 
