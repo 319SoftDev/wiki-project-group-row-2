@@ -8,5 +8,5 @@ Story games is exactly what is sounds like. Its a game that allows the user to p
 
 Learn what video games are [here][another place]
 
-[another place]: videogame
+[another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
 
