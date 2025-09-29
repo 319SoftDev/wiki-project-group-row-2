@@ -1,3 +1,3 @@
 # Video Games
-[Fantasy](fantasy/fent.md) [Horror](horror.md) [Story Games](storygame/story.md)
+[Fantasy](fantasy/fent.md) [Horror](horrorfile.md) [Story Games](storygame/story.md)
 
