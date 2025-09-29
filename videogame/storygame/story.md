@@ -6,5 +6,7 @@ Story games is exactly what is sounds like. Its a game that allows the user to p
 ### Explore two adventure games here
 [Hello Neighbor](helloneigh/neighbor.md) [Life Is Strange](strangelife/strangelife.md)
 
-Learn what video games are [here](videogame/readme.md)!
+Learn what video games are [here][another place]
+
+[another place]: videogame
 
