@@ -9,8 +9,8 @@ A horror game is a video game genre centered on horror fiction and typically des
 ### Psychological horror:
 Psychological horror games are meant to scare the player through emotional, mental, or psychological states rather than through monsters or other scares. The fear comes from "what is not seen, rather than what is".These games commonly rely on the player-character's unreliable perceptions or questionable sanity in order to develop the story. 
 
-* **Amnesia**
->Frictional Game Amnesia series explore ethical and philosophical questions, and the psychology, motivations and fallible sides of their largely defenseless protagonists, subjected to mysterious events largely beyond their control.\
+#### [Amnesia](amnesia/amnesiafile.md)
+Frictional Game Amnesia series explore ethical and philosophical questions, and the psychology, motivations and fallible sides of their largely defenseless protagonists, subjected to mysterious events largely beyond their control.\
 [![Amnesia](https://static.wikia.nocookie.net/amnesia/images/2/20/AmnesiaLogo.png/revision/latest?cb=20200312140206)](https://frictionalgames.com)
 
 
