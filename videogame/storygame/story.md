@@ -6,7 +6,7 @@ Story games is exactly what is sounds like. Its a game that allows the user to p
 ### Horror Adventure Game:
 #### [Hello Neighbor](helloneigh/neighbor.md) 
 
-[![HelloNeighbor](https://preview.redd.it/i-remade-the-hello-neighbor-logo-v0-9i52jexmqjye1.png?auto=webp&s=2e11b1fea32f63f869ea23124ada00bcf47b2e46)](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/)
+[![HelloNeighbor](https://static.wikia.nocookie.net/fictionalcrossover/images/3/3c/NeighborLogo.webp/revision/latest/scale-to-width-down/1200?cb=20220818134933)](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/)
 
 
 ### Interactive film Adventure Game:
