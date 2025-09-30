@@ -9,7 +9,7 @@ Story games is exactly what is sounds like. Its a game that allows the user to p
 
 ### Interactive film Adventure Game
 #### [Life Is Strange](strangelife/strangelife.md)
-
+Life Is Strange 
 [![LifeisStrange](https://upload.wikimedia.org/wikipedia/commons/0/09/Life_Is_Strange.png)](https://lifeisstrange.square-enix-games.com/en-us)
 
 
