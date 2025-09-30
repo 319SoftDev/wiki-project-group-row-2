@@ -18,4 +18,9 @@ Frictional Game Amnesia series explore ethical and philosophical questions, and 
 
 Jump scare horror games are designed around moments aimed to immediately surprise or shock the player when they do not expect it, as well as creating a sense of dread while anticipating the next jump scare. 
 
+#### [Outlast](outlast/outlastfile.md)
+Outlast is a jump scare game, but it is also more than that; while it utilizes jump scares, the horror experience is built on a foundation of atmosphere, psychological terror, sound design, and a lack of player defense to create intense suspense and fear.\
+[![Outlast]()](https://frictionalgames.com)
+
+
 
