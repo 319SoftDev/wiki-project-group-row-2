@@ -1,7 +1,7 @@
 # Adventure Games
 
 ## What is an Adventure game?
-Story games is exactly what is sounds like. Its a game that allows the user to play as the main charcter and build their own story through a series of choices/ adventures.
+Story games is exactly what is sounds like. Its a game that allows the user to play as the main charcter and build their own story through a series of choices/ adventures. Adventures range from exploration of places, narrtive, puzzle, survival and simulation. 
 ## Sub-genres
 ### Horror Adventure Game:
 #### [Hello Neighbor](helloneigh/neighbor.md) 
