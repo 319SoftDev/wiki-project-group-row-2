@@ -25,4 +25,5 @@ Outlast is a jump scare game, but it is also more than that; while it utilizes j
 
 ### Survival horror:
 One of the best-defined and most common types of horror games are survival horror games. These games tend to focus on the survival of the player-character in a horror setting with limited resources.
+#### [Alien: Isolation](alienfile/alien.md)
 
