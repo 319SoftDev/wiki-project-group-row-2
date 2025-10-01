@@ -39,13 +39,17 @@ Majora's Mask (2000): Nintendo 64.
  -  Skyward Sword (2011): Wii.
 - A Link Between Worlds (2013): Nintendo 3DS.
 - Tri Force Heroes (2015): Nintendo 3DS.
-- Breath of the Wild (2017): Nintendo Switch and Wii U. 
+- Breath of the Wild (2017): Nintendo Switch and Wii U.
+
+  
 ### 2020s
+
+
 - Tears of the Kingdom (2023): Nintendo Switch.
 - Echoes of Wisdom (2024): Nintendo Switch
 
 ## Tears Of The Kingdom
 Tears of the kingdom released in 2023 foir the nintendo switch. It is a sequel for the legend of zelda breath of the wild, but with a twist. It introduces new motion mechanics, new parts of the map, and new enemies. 
-Alike [Baldurs Gate 3][another place]
+Alike [Baldurs Gate 3][another place], Its an open world game, so its good to explore and so easy spend many hours playing.
 
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/baldursgate3/bg3.md
