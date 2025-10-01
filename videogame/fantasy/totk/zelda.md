@@ -45,6 +45,7 @@ Majora's Mask (2000): Nintendo 64.
 - Echoes of Wisdom (2024): Nintendo Switch
 
 ## Tears Of The Kingdom
-Tears of the kingdom released in 2023 foir the nintendo switch. It is a sequel for the legend of zelda breath of the wild, but with a twist. It introduces new motion mechanics, new parts of the map, and new enemies. Alike [Baldurs Gate 3]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/baldursgate3/bg3.md 
+Tears of the kingdom released in 2023 foir the nintendo switch. It is a sequel for the legend of zelda breath of the wild, but with a twist. It introduces new motion mechanics, new parts of the map, and new enemies. 
+Alike [Baldurs Gate 3] [another]
+[another]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/baldursgate3/bg3.md 
 
-[genre1]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
