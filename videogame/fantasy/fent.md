@@ -8,7 +8,7 @@ Fantasy is a genre of fiction that contains magic, supernatural creatures, and m
 
 ## What Are the Types Of Fantasy?
  - Grim dark, a subgenre with gritty, dark undertones. The story usually contains nihlistic amoral themes. Examples are Darkest Dungeons, Fear and Hunger, and Castlevania.
-[![Catslevania](https://upload.wikimedia.org/wikipedia/commons/1/13/Castlevania-logo.png?20231014180631)](https://commons.wikimedia.org/wiki/File:Castlevania-logo.png)
+[![Castlevania](https://upload.wikimedia.org/wikipedia/commons/1/13/Castlevania-logo.png?20231014180631)](https://commons.wikimedia.org/wiki/File:Castlevania-logo.png)
 
 
  - Romance fantasy, a subgenre of fantasy with romance as the main plot, Examples are Baldurs Gate 3, Dragon Age, and Pathfinder.
