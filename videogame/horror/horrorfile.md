@@ -27,4 +27,4 @@ Outlast is a jump scare game, but it is also more than that; while it utilizes j
 One of the best-defined and most common types of horror games are survival horror games. These games tend to focus on the survival of the player-character in a horror setting with limited resources.
 #### [Alien: Isolation](alienfile/alien.md)
 Alien: Isolation is a single-player, first-person survival horror stealth game where players must avoid and outsmart a deadly Xenomorph to survive on the space station Sevastopol.\
-[![Alien: Isolation](https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Alien_Isolation.jpg/250px-Alien_Isolation.jpg)](https://www.sega.com/alien-isolation/alien-isolation)
+[![Alien: Isolation](https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00362_00/5/i_78c823374d1397ccb9e9d8dd5acc6153a8ca608414b6249c5c051a73888da9be/i/icon0.png)](https://www.sega.com/alien-isolation/alien-isolation)
