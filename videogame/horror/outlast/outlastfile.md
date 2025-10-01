@@ -21,5 +21,8 @@ In order to survive, the player must either run or hide from enemies. Combat is 
 The only item players will have equipped is a camcorder. The camcorder is battery operated and includes night vision, which is used to navigate through dark areas. Having the camcorder on helps to record events and put notes in the player's notebook. Batteries need to be collected throughout the game to keep the camcorder's night vision working. The story unravels through documents that can be found in various locations. They appear as blue folders with **"CONFIDENTIAL"** stamped on the front.
 
 ## Plot 
+Miles Upshur discovers the asylum's patients, called Variants, have been subjected to experiments that turned them into homicidal maniacs, and he becomes pursued by them. Miles learns of a supernatural entity known as The Walrider, a swarm of nanites controlled by the host Billy Hope. Miles stops Billy's life support, and the Walrider fuses with him. Miles is then killed by armed soldiers, but the Walrider resurrects in Miles, killing the soldiers as the game ends.  
+
 
 ## Games related 
+
