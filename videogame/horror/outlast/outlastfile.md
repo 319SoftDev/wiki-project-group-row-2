@@ -12,6 +12,8 @@ Outlasts is a 2013 first-person psychological survival horror and jumpscare vide
 ## Gameplay 
 You play as investigative journalist Miles Upshur, who investigates a remote asylum called Mount Massive Asylum after receiving an anonymous tip about unethical experiments conducted by the Murkoff Corporation.
 ![Asylum](https://static.wikia.nocookie.net/outlast/images/0/0f/Mount_Massive_Asylum_Upscaled.png/revision/latest/scale-to-width-down/1200?cb=20250623193438)
+[*Learn more about Mount Massive Assylum*](https://outlast.fandom.com/wiki/Mount_Massive_Asylum)
+
 
 In order to survive, the player must either run or hide from enemies. Combat is not possible and attempts to confront an enemy will result in death. Players can hide in lockers and under beds. However, enemies will look for them in these areas, so care must be taken. When running, the player can look back at their pursuer.
 
