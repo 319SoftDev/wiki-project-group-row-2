@@ -22,7 +22,7 @@ The only item players will have equipped is a camcorder. The camcorder is batter
 
 ## Plot 
 Miles Upshur discovers the asylum's patients, called Variants, have been subjected to experiments that turned them into homicidal maniacs, and he becomes pursued by them. Miles learns of a supernatural entity known as The Walrider, a swarm of nanites controlled by the host Billy Hope. Miles stops Billy's life support, and the Walrider fuses with him. Miles is then killed by armed soldiers, but the Walrider resurrects in Miles, killing the soldiers as the game ends.  
-
+![Variants](../img/asylum.png)\
 
 ## Games related 
 
