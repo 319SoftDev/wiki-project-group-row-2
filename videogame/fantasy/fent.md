@@ -15,7 +15,7 @@ Fantasy is a genre of fiction that contains magic, supernatural creatures, and m
   [![bg3](https://cdn2.steamgriddb.com/logo_thumb/a9d4a0a256f5e6ae0452039e3493f22c.png)](https://www.steamgriddb.com/logo/20144)
 
  - Medieval fantasy, a subgenre that uses european medieval age aesthetic and combining them with fantasy elements. Example of this are Skyrim, The Legend Of Zeld Tears Of The Kingdom, and Dark Souls.
-[![zelda](https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_500/Marketing/68272fb37fa56918996af8bfceddbc4223c2746af7c325b2067f0c62c65ef8c0/pmp_j70k35rr/story/loz-logo-intro-2x)](https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition-switch-2/?srsltid=AfmBOoochukApHNWr7ODr7STOtveQlQyDKLh-yuCpdoZMr7A-wMG7yoB)
+[![zelda](https://www.pngmart.com/files/4/The-Legend-of-Zelda-Logo-PNG-Image.png)](https://www.pngmart.com/image/35706)
 
    
 ### Explore two  Fantasy games here!!
