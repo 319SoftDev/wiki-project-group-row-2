@@ -20,7 +20,7 @@ Jump scare horror games are designed around moments aimed to immediately surpris
 
 #### [Outlast](outlast/outlastfile.md)
 Outlast is a jump scare game, but it is also more than that; while it utilizes jump scares, the horror experience is built on a foundation of atmosphere, psychological terror, sound design, and a lack of player defense to create intense suspense and fear.\
-[![Outlast](https://clouddosage.com/wp-content/uploads/2023/02/Outlast.jpg)](https://frictionalgames.com)
+[![Outlast](https://clouddosage.com/wp-content/uploads/2023/02/Outlast.jpg)](https://redbarrelsgames.com/games/outlast/)
 
 
 ### Survival horror:
