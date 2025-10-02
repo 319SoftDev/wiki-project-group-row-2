@@ -18,9 +18,11 @@ You play as **Daniel**, who awakens inside Castle Brennenburg with no memory of 
 - Daniel’s **sanity** decreases when he stays in darkness or witnesses unsettling events, causing hallucinations.  
 - Light sources (torches, candles, oil lamps) help preserve sanity, but resources are limited.  
 - Exploration, puzzle-solving, and reading notes drive the story forward.  
-
+![Amnesia](../img/amnesia.jpg)
 
 ## Plot
 Daniel regains his memories while exploring **Castle Brennenburg**:  
 
 He worked for **Alexander of Brennenburg**, helping capture and torture innocents for dark rituals. Overcome with guilt, Daniel drank an amnesia potion to forget his past deeds.  Alexander’s ultimate goal is to open a portal to another dimension. Multiple endings exist depending on the player’s choices: Daniel may destroy Alexander, sacrifice himself, or let Alexander succeed.  
+
+
