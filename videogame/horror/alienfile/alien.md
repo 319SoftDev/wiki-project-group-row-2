@@ -23,9 +23,9 @@ You play as **Amanda Ripley**, daughter of Ellen Ripley, as she explores the Sev
 ## Plot
 Amanda Ripley learns the Nostromo’s flight recorder has been recovered and travels to **Sevastopol Station**. Upon arrival, she finds the station in ruins, with survivors hostile, androids malfunctioning, and a **Xenomorph** hunting everyone.  
 
-Amanda discovers Seegson Corporation’s attempts to exploit the alien. The infestation grows uncontrollable, and she fights to eject the Xenomorph into space. The game closes with Amanda drifting in space, ending on an ambiguous note as she sees a bright light from an unknown ship.  
+Amanda discovers Seegson Corporation’s attempts to exploit the alien. The infestation grows uncontrollable, and she fights to eject the Xenomorph into space. The game closes with Amanda drifting in space, ending on an ambiguous note as she sees a bright light from an unknown ship. 
 
-
+![Alien: Isolation](../img/alien2.jpg)
 
 
 
