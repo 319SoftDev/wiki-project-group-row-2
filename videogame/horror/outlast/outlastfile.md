@@ -1,7 +1,7 @@
 # Outlast
 
 ## General Information 
-Outlasts is a 2013 first-person psychological survival horror and jumpscare video game developed and published by Red Red Barrels.\
+Outlasts is a 2013 first-person psychological survival horror and jumpscare video game developed and published by [Red Red Barrels](https://redbarrelsgames.com/).
 | Platform      | Release Date |
 | ----------- | ----------- |
 | Microsoft Windows  | September 4, 2013 |
@@ -24,5 +24,7 @@ The only item players will have equipped is a camcorder. The camcorder is batter
 Miles Upshur discovers the asylum's patients, called Variants, have been subjected to experiments that turned them into homicidal maniacs, and he becomes pursued by them. Miles learns of a supernatural entity known as The Walrider, a swarm of nanites controlled by the host Billy Hope. Miles stops Billy's life support, and the Walrider fuses with him. Miles is then killed by armed soldiers, but the Walrider resurrects in Miles, killing the soldiers as the game ends.  
 ![Variants](../img/Variants.jpg)
 
-## Games related 
-
+## 
+* [Outlas: Whistleblower](https://redbarrelsgames.com/games/outlast-whistleblower/)
+* [Outlast 2](https://redbarrelsgames.com/games/outlast-2/)
+* [The Outlast Trials](https://redbarrelsgames.com/games/the-outlast-trials/)
