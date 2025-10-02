@@ -24,5 +24,5 @@ You play as **Daniel**, who awakens inside Castle Brennenburg with no memory of 
 Daniel regains his memories while exploring **Castle Brennenburg**:  
 
 He worked for **Alexander of Brennenburg**, helping capture and torture innocents for dark rituals. Overcome with guilt, Daniel drank an amnesia potion to forget his past deeds.  Alexander’s ultimate goal is to open a portal to another dimension. Multiple endings exist depending on the player’s choices: Daniel may destroy Alexander, sacrifice himself, or let Alexander succeed.  
-
+![Amnesia](../img/amnesia2.jpg)
 
