@@ -33,3 +33,9 @@ Alien: Isolation is a single-player, first-person survival horror stealth game w
 Want to learn more about video games? Click [here][another place]
 
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
+
+## Explore genres of Games!!
+**[Fantasy][fantasylol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
+
+[fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
+[horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
