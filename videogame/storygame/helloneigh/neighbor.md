@@ -33,4 +33,4 @@ Want to learn more about video games? Click [here][another place]
 **[Fantasy][fantasylol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
 
 [fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
-[horrolol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
+[horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
