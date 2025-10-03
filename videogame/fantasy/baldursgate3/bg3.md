@@ -14,7 +14,7 @@ Baldur's Gate 3 (also known as BG3 and Baldur's Gate III) is a 2023 role-playing
 ## Cast
 The world, alongside the player's thoughts and observations, are recounted by the game's narrator (Amelia Tyler), acting as BG3's dungeon master. While the narrator was originally planned to deliver lines contemptuously, Larian was impressed by Tyler's deadpan delivery. Of the ten companions, six can be chosen as the player character in the character creator. Known as origin characters, they have a pre-set character class, race, and appearance. Although their classes can be changed, origin character personalities and backstories are sometimes related to them.
 
-- Astarion is a hedonistic vampire spawn voiced by Neil Newbon. At the game's start, Astarion has recently escaped his vampire master, Cazador. Newbon's performance was partly inspired by the harlequin figure of commedia dell'arte. Of the origin characters, Astarion was the second most selected protagonist.
+- Astarion is a hedonistic vampire spawn voiced by Neil Newbon. Vampires could be considered apart of the [horror](../../horror/horror.md) genre At the game's start, Astarion has recently escaped his vampire master, Cazador. Newbon's performance was partly inspired by the harlequin figure of commedia dell'arte. Of the origin characters, Astarion was the second most selected protagonist.
 
   
   [![astarion](https://bg3.wiki/w/images/thumb/3/3c/Astarion.png/299px-Astarion.png)](https://bg3.wiki/wiki/Astarion)
