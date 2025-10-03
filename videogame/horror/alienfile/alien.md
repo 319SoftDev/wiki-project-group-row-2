@@ -14,11 +14,11 @@
 ## Gameplay
 You play as **Amanda Ripley**, daughter of Ellen Ripley, as she explores the Sevastopol space station to uncover the fate of her mother.  
 
-- The main threat is the **Xenomorph**, an intelligent alien that cannot be killed.  
-- Players must use stealth: hide in lockers, crouch under tables, and use distractions like noisemakers.  
-- Hostile humans and androids ("Working Joes") also patrol the station.  
-- Tools include a **motion tracker**, crafting system, and a flamethrower (later in the game) to temporarily repel the alien.  
-- The design emphasizes tension, limited resources, and survival rather than combat.\
+* The main threat is the **Xenomorph**, an intelligent alien that cannot be killed.  
+* Players must use stealth: hide in lockers, crouch under tables, and use distractions like noisemakers.  
+* Hostile humans and androids ("Working Joes") also patrol the station.  
+* Tools include a **motion tracker**, crafting system, and a flamethrower (later in the game) to temporarily repel the alien.  
+* The design emphasizes tension, limited resources, and survival rather than combat.\
 ![Alien: Isolation](../img/alien.jpg)
 ## Plot
 Amanda Ripley learns the Nostromo’s flight recorder has been recovered and travels to **Sevastopol Station**. Upon arrival, she finds the station in ruins, with survivors hostile, androids malfunctioning, and a **Xenomorph** hunting everyone.  
