@@ -1,7 +1,7 @@
 # Outlast
 
 ## General Information 
-[Outlasts](https://redbarrelsgames.com/games/outlast/) is a 2013 first-person psychological survival horror and jumpscare video game developed and published by [Red Red Barrels](https://redbarrelsgames.com/).
+[*Outlasts*](https://redbarrelsgames.com/games/outlast/) is a 2013 first-person psychological survival horror and jumpscare video game developed and published by [Red Red Barrels](https://redbarrelsgames.com/).
 | Platform      | Release Date |
 | ----------- | ----------- |
 | Microsoft Windows  | September 4, 2013 |
