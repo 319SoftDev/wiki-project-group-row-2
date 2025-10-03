@@ -28,3 +28,5 @@ Miles Upshur discovers the asylum's patients, called Variants, have been subject
 * [Outlas: Whistleblower](https://redbarrelsgames.com/games/outlast-whistleblower/)
 * [Outlast 2](https://redbarrelsgames.com/games/outlast-2/)
 * [The Outlast Trials](https://redbarrelsgames.com/games/the-outlast-trials/)
+
+Go to the main page [here]
