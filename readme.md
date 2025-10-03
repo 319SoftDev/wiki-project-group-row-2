@@ -14,5 +14,5 @@ The most popular platforms video games are played on:
 - Steam Deck
 - Sony
 ## Explore genres of Games!!
-**[Fantasy](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Adventure Games](storygame/story.md)**
+**[Fantasy](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Adventure Games](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md)**
 
