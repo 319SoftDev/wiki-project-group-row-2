@@ -1,7 +1,7 @@
 # Hello Neighbor
 [![HelloNeighbor](https://static.wikia.nocookie.net/fictionalcrossover/images/3/3c/NeighborLogo.webp/revision/latest/scale-to-width-down/1200?cb=20220818134933)](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/)
-## General Information
-*Hello Neighbor* is a game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in his basement. You play as Nicky Roth, a young boy who is trying to find out the secrets of his neighbor. Nicky goes through suspicion, abduction, trauma, and acceptance during this game, all because of Mr. Peterson.
+## What is Hello Neighbor?
+*Hello Neighbor* is a [horror adventure][genre1] game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in his basement. You play as Nicky Roth, a young boy who is trying to find out the secrets of his neighbor. Nicky goes through suspicion, abduction, trauma, and acceptance during this game, all because of Mr. Peterson.
 
 | Platform | Release Date |
 |----------|--------------|
@@ -34,3 +34,4 @@ Want to learn more about video games? Click [here][another place]
 
 [fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
 [horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
+[genre1]:
