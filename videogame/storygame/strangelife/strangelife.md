@@ -15,15 +15,12 @@ A direct sequel to the original Life is Strange, set ten years later in 2023. Pl
 
 [genre1]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
 
-[another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
-
-## Explore genres of Games!!
-**[Fantasy](fantasylol)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](horrorlol)**
-
-[fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
-[horrolol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
-
-
 Want to learn more about video games? Click [here][another place]
 
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
+
+## Explore genres of Games!!
+**[Fantasy][fantasylol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
+
+[fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
+[horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
