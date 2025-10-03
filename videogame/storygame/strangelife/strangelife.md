@@ -11,7 +11,6 @@ Max Caulfield (main character), a high school student who discovers she can rewi
 Alex Chen, a young woman with empathic powers who moves to the small mining town of Haven Springs to reunite with her brother, only to uncover dark secrets surrounding his tragic death. Using her ability to see and manipulate emotions as colorful auras, Alex must investigate the incident, solve the mystery, and build relationships within the town, leading to impactful choices and multiple endings
 ### Life is Strange Double Exposure 
 A direct sequel to the original Life is Strange, set ten years later in 2023. Players reprise their role as a now-adult Max Caulfield, a photographer working at Kaledon University. After her new friend, Safi, is murdered, Max discovers a new ability to shift between two timelines
-[lifestrange]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
 
 [genre1]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
 
