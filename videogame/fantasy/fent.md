@@ -23,7 +23,7 @@ Fantasy is a genre of fiction that contains magic, supernatural creatures, and m
 ## Explore genres of Games!!
 **[Adventure][adlol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
 
-[adlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/ad.md
+[adlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
 [horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
 
 Want to learn more about video games? Click [here][another place]
