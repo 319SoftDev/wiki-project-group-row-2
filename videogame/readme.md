@@ -6,7 +6,13 @@ Games can range from simple puzzles to complex, story-driven adventures and are 
 
 Video games are popular for entertainment, but they also have applications in education, training, and therapy.
 
-### [Fantasy](fantasy/fent.md) 
-### [Horror](horror/horrorfile.md)   
-### [Adventure Games](storygame/story.md)
+The most popular platforms video games are played on:
+- Personal Computers (PCs)
+- PlayStation
+- Xbox
+- Nintendo Switch
+- Steam Deck
+- Sony
+## Explore genres of Games!!
+**[Fantasy](fantasy/fent.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](horror/horrorfile.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Adventure Games](storygame/story.md)**
 
