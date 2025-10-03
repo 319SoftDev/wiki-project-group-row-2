@@ -20,9 +20,9 @@ The players controls *Nicky Roth*, who witnesses some strange happenings at his 
 The neighbor keeps his son, Aaron, locked away after the boy accidentally killed his sister, Mya, during a tragic accident. As Nicky uncovers these painful events, he must navigate the house's many traps and challenges, ultimately confronting his own fears and trauma to free Aaron.  
 
 ## More games
-* Hello Neighbor: Hide and Seek
-* Secret Neighbor
-* Hello Engineer
-* Hello Neighbor 2
-* Hello Neighbor 3
+* [Hello Neighbor: Hide and Seek](https://www.helloneighborgame.com/hide-and-seek)
+* [Secret Neighbor](https://www.secretneighbor.com/)
+* [Hello Engineer](https://www.helloengineer.com/)
+* [Hello Neighbor 2](https://www.helloneighbor2.com/)
+
   
