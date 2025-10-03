@@ -2,7 +2,7 @@
 ## What Is The Legend Of zelda
 [![zelda](https://www.pngmart.com/files/4/The-Legend-of-Zelda-Logo-PNG-Image.png)](https://www.pngmart.com/image/35706)
 
-The legend of zelda is an action-[adventure][genre1] game. Released in 1986 by Nintendo for the family computer system, it later released in the NES. The plot follows Link, he tries to help the princess of Hyrule, Zelda, from the evil villain of the story ganon.  The timeline goes
+The legend of zelda is an action-[adventure](../storygame/story.md) game. Released in 1986 by Nintendo for the family computer system, it later released in the NES. The plot follows Link, he tries to help the princess of Hyrule, Zelda, from the evil villain of the story ganon.  The timeline goes
 
 
 ### 1980s 
@@ -51,5 +51,6 @@ Majora's Mask (2000): Nintendo 64.
 ## Tears Of The Kingdom
 Tears of the kingdom released in 2023 foir the nintendo switch. It is a sequel for the legend of zelda breath of the wild, but with a twist. It introduces new motion mechanics, new parts of the map, and new enemies. 
 Alike [Baldurs Gate 3][another place], Its an open world game, so its good to explore and so easy spend many hours playing.
+
 [genre1]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/baldursgate3/bg3.md
