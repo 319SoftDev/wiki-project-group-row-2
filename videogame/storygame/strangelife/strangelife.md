@@ -11,12 +11,18 @@ Max Caulfield (main character), a high school student who discovers she can rewi
 Alex Chen, a young woman with empathic powers who moves to the small mining town of Haven Springs to reunite with her brother, only to uncover dark secrets surrounding his tragic death. Using her ability to see and manipulate emotions as colorful auras, Alex must investigate the incident, solve the mystery, and build relationships within the town, leading to impactful choices and multiple endings
 ### Life is Strange Double Exposure 
 A direct sequel to the original Life is Strange, set ten years later in 2023. Players reprise their role as a now-adult Max Caulfield, a photographer working at Kaledon University. After her new friend, Safi, is murdered, Max discovers a new ability to shift between two timelines
-## Explore genres of Games!!
-**[Fantasy](fantasy/fent.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](horror/horrorfile.md)**
-
 [lifestrange]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
 
 [genre1]:https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
+
+[another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
+
+## Explore genres of Games!!
+**[Fantasy](fantasylol)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](horrorlol)**
+
+[fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
+[horrolol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
+
 
 Want to learn more about video games? Click [here][another place]
 
