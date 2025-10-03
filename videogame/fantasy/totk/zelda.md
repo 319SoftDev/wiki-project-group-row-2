@@ -2,7 +2,7 @@
 ## What Is The Legend Of zelda
 [![zelda](https://www.pngmart.com/files/4/The-Legend-of-Zelda-Logo-PNG-Image.png)](https://www.pngmart.com/image/35706)
 
-The legend of zelda is an action-[adventure](../storygame/story.md) game. Released in 1986 by Nintendo for the family computer system, it later released in the NES. The plot follows Link, he tries to help the princess of Hyrule, Zelda, from the evil villain of the story ganon.  The timeline goes
+The legend of zelda is an action-[adventure](../../storygame/story.md) game. Released in 1986 by Nintendo for the family computer system, it later released in the NES. The plot follows Link, he tries to help the princess of Hyrule, Zelda, from the evil villain of the story ganon.  The timeline goes
 
 
 ### 1980s 
