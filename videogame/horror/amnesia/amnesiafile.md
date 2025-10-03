@@ -14,10 +14,10 @@
 ## Gameplay
 You play as **Daniel**, who awakens inside Castle Brennenburg with no memory of how he got there.  
 
-- There is **no combat**; survival depends on hiding and running from monsters.  
-- Daniel’s **sanity** decreases when he stays in darkness or witnesses unsettling events, causing hallucinations.  
-- Light sources (torches, candles, oil lamps) help preserve sanity, but resources are limited.  
-- Exploration, puzzle-solving, and reading notes drive the story forward.  
+* There is **no combat**; survival depends on hiding and running from monsters.  
+* Daniel’s **sanity** decreases when he stays in darkness or witnesses unsettling events, causing hallucinations.  
+* Light sources (torches, candles, oil lamps) help preserve sanity, but resources are limited.  
+* Exploration, puzzle-solving, and reading notes drive the story forward.  
 ![Amnesia](../img/amnesia.jpg)
 
 ## Plot
