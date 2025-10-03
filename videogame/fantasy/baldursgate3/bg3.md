@@ -4,7 +4,7 @@
 [![bg3](https://upload.wikimedia.org/wikipedia/commons/7/75/Baldurs_Gate_logo_circa_Enhanced_Edition.png?20120912223603)](https://commons.wikimedia.org/wiki/File:Baldurs_Gate_logo_circa_Enhanced_Edition.png)
 
 
-Baldur's Gate is a series of role-playing [video game](../../readme.md) video games set in the Forgotten Realms Dungeons & Dragons campaign setting. There are three  games with Baldur's Gate: Enhanced Edition, an update of the original Baldur's Gate , and was followed by an enhanced edition of the second Baldur's Gate called Baldur's Gate II: Enhanced Edition. Beamdog was granted permission to develop new games with the license, such as Baldur's Gate: Siege of Dragonspear, an expansion for Baldur's Gate: Enhanced Edition. The license was later given to Larian Studios, who developed and published Baldur's Gate 3, released in 2023.
+Baldur's Gate is a series of role-playing [video game](../../readme.md)  set in the Forgotten Realms Dungeons & Dragons campaign setting. There are three  games with Baldur's Gate: Enhanced Edition, an update of the original Baldur's Gate , and was followed by an enhanced edition of the second Baldur's Gate called Baldur's Gate II: Enhanced Edition. Beamdog was granted permission to develop new games with the license, such as Baldur's Gate: Siege of Dragonspear, an expansion for Baldur's Gate: Enhanced Edition. The license was later given to Larian Studios, who developed and published Baldur's Gate 3, released in 2023.
 
 
 ## Baldurs gate 3
