@@ -54,14 +54,15 @@ The world, alongside the player's thoughts and observations, are recounted by th
   
 - Halsin (Dave Jones) is a wood elf druid and the master of the druids' grove that the player visits during the game's first act. Initially not recruitable during early access, player reception to Halsin was so positive that he was given a companion role.
 
-[![minthara](https://bg3.wiki/w/images/thumb/b/b1/Karlach.png/300px-Karlach.png)](https://bg3.wiki/wiki/Karlach)
+[![Halsin](https://baldursgate3.wiki.fextralife.com/file/Baldurs-Gate-3/halsin-title-bg3-wiki-guide.png)](https://baldursgate3.wiki.fextralife.com/Halsin+%28Boss%29
+)
 
 
 - Jaheira (Tracy Wiles) is a half-elf druid and leader of the Harpers, an organization dedicated to the preservation of historical lore and knowledge.
 
-[![minthara](https://bg3.wiki/w/images/thumb/b/b1/Karlach.png/300px-Karlach.png)](https://bg3.wiki/wiki/Karlach)
+[![minthara](https://www.amisthiosintraining.com/uploads/1/2/9/5/129529098/baldur-s-gate-3-super-resolution-2023-10-02-22-33-13-20-edited-wm_orig.png)](https://www.amisthiosintraining.com/virtualfotodivisionblog/category/baldurs-gate-iii-jaheira/2)
 
 -  Minsc (Matthew Mercer) is a human ranger who carries a hamster named Boo with him; Jaheira and Minsc previously appeared in both Baldur's Gate and Baldur's Gate II: Shadows of Amn.
 
 
-[![minthara](https://baldursgate3.wiki.fextralife.com/file/Baldurs-Gate-3/minthara-title-bg3-wiki-guide.png)](https://baldursgate3.wiki.fextralife.com/Minthara+%28Boss%29)
+[![minsc](https://static.wikia.nocookie.net/baldursgate/images/a/a3/Minsc_-_Portraits_%28BG3%29.png/revision/latest?cb=20231002142546&path-prefix=fr)](https://baldursgate.fandom.com/fr/wiki/BG3:Minsc)
