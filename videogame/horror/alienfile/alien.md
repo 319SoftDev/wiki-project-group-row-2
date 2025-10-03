@@ -1,7 +1,7 @@
 # Alien: Isolation
 
 ## General Information
-*Alien: Isolation* is a 2014 first-person survival horror stealth game developed by [**Creative Assembly**](https://www.creative-assembly.com/) and published by [**Sega**](https://www.sega.com/). It is based on the *Alien* film franchise and focuses on survival against a relentless alien creature.  
+[*Alien: Isolation*](https://www.sega.com/alien-isolation/alien-isolation) is a 2014 first-person survival horror stealth game developed by [**Creative Assembly**](https://www.creative-assembly.com/) and published by [**Sega**](https://www.sega.com/). It is based on the *Alien* film franchise and focuses on survival against a relentless alien creature.  
 
 | Platform | Release Date |
 |----------|--------------|
