@@ -19,4 +19,4 @@ Want to learn more about video games? Click [here][another place]
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
 
 ## Explore genres of Games!!
-**[Fantasy](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](horror/horrorfile.md)**
+**[Fantasy](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](https://github.com/319SoftDev/wiki-project-group-row-2/tree/main/videogame/horror)**
