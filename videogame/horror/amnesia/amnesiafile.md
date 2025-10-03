@@ -1,7 +1,7 @@
 # Amnesia: The Dark Descent
 
 ## General Information
-*Amnesia: The Dark Descent* is a 2010 first-person survival horror adventure game developed and published by **Frictional Games**. It is renowned for its psychological horror and is considered one of the most influential indie horror games.  
+[*Amnesia: The Dark Descent*](https://www.amnesiagame.com/#main) is a 2010 first-person survival horror adventure game developed and published by **Frictional Games**. It is renowned for its psychological horror and is considered one of the most influential indie horror games.  
 
 | Platform | Release Date |
 |----------|--------------|
