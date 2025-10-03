@@ -19,13 +19,16 @@ Fantasy is a genre of fiction that contains magic, supernatural creatures, and m
 
    
 ### Explore two  Fantasy games here!!
-[The Legend Of Zelda: Tears Of the Kingdom](totk/zelda.md) [Baldurs Gate 3](baldursgate3/bg3.md)
+[The Legend Of Zelda: Tears Of the Kingdom](totk/zelda.md) [Baldurs Gate 3](baldursgate3/bg3.md)   
+
+Want to learn more about video games? Click [here][another place]
+
+[another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
+
 ## Explore genres of Games!!
 **[Adventure][adlol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
 
 [adlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
 [horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
 
-Want to learn more about video games? Click [here][another place]
 
-[another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
