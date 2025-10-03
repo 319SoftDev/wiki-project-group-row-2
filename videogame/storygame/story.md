@@ -9,9 +9,7 @@ An interactive film game is a type of video game that gives a cinematic feel and
 [![LifeisStrange](https://upload.wikimedia.org/wikipedia/commons/0/09/Life_Is_Strange.png)](https://lifeisstrange.square-enix-games.com/en-us)
 
 ### Horror Adventure Game:
-A horror adventure game enacts suspense, anxiety, and jumpscares for players. 
-
-**[Hello Neighbor](helloneigh/neighbor.md)** is an exmaple of this genre. 
+A horror adventure game enacts suspense, anxiety, and jumpscares for players, characterized by dark settings. Key elements of this genre are ghosts, zombies are monsters. **[Hello Neighbor](helloneigh/neighbor.md)** is an exmaple of this genre. However the key element being a creepy neighbor hiding something in his basement, the player having to sneak into his house and ivestigate. 
 
 [![HelloNeighbor](https://static.wikia.nocookie.net/fictionalcrossover/images/3/3c/NeighborLogo.webp/revision/latest/scale-to-width-down/1200?cb=20220818134933)](https://store.steampowered.com/app/1321680/Hello_Neighbor_2/)
 
