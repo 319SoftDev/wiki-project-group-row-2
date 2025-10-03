@@ -25,4 +25,12 @@ The neighbor keeps his son, Aaron, locked away after the boy accidentally killed
 * [Hello Engineer](https://www.helloengineer.com/)
 * [Hello Neighbor 2](https://www.helloneighbor2.com/)
 
-  
+Want to learn more about video games? Click [here][another place]
+
+[another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
+
+## Explore genres of Games!!
+**[Fantasy](fantasylol)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror](horrorlol)**
+
+[fantasylol]:
+[horrolol]:
