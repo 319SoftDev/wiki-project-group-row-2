@@ -27,6 +27,6 @@ He worked for **Alexander of Brennenburg**, helping capture and torture innocent
 ![Amnesia](../img/amnesia2.jpg)
 
 ## More games
-[* Amnesia: A Machine for Pigs](https://aamfp.com/)
-[* Amnesia: Rebirth](https://amnesiarebirth.com/)
-[* Amnesia: The Bunker](https://amnesiathebunker.com/)
+* [Amnesia: A Machine for Pigs](https://aamfp.com/)
+* [Amnesia: Rebirth](https://amnesiarebirth.com/)
+* [Amnesia: The Bunker](https://amnesiathebunker.com/)
