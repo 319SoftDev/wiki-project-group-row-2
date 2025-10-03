@@ -30,4 +30,6 @@ Alien: Isolation is a single-player, first-person survival horror stealth game w
 [![Alien: Isolation](https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00362_00/5/i_78c823374d1397ccb9e9d8dd5acc6153a8ca608414b6249c5c051a73888da9be/i/icon0.png)](https://www.sega.com/alien-isolation/alien-isolation)
 
 
+Want to learn more about video games? Click [here][another place]
+
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/readme.md
