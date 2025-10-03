@@ -27,5 +27,5 @@ Amanda discovers Seegson Corporation’s attempts to exploit the alien. The infe
 
 ![Alien: Isolation](../img/alien2.jpg)
 
-
+Go to the main page of horror games [here](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md)
 
