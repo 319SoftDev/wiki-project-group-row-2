@@ -52,5 +52,9 @@ Majora's Mask (2000): Nintendo 64.
 The Legend of Zelda: Tears of the Kingdom is a 2023 action-adventure game developed by Nintendo EPD for the Nintendo Switch. The player controls Link as he searches for Princess Zelda and fights to prevent Ganondorf from destroying Hyrule. Tears of the Kingdom retains the open-world gameplay and setting of its predecessor, Breath of the Wild, but features new environments, including islands floating in the sky and a vast underground area. It introduces construction elements, allowing the player to create devices that aid in combat or exploration.
 
 
+## Explore genres of Games!!
+**[adventure][fantasylol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
 
+[adventurelol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
+[horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
 [another place]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/baldursgate3/bg3.md
