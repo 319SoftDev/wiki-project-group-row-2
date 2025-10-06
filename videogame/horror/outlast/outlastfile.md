@@ -30,3 +30,5 @@ Miles Upshur discovers the asylum's patients, called Variants, have been subject
 * [The Outlast Trials](https://redbarrelsgames.com/games/the-outlast-trials/)
 
 Go to the main page of horror games [here](https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md)
+
+
