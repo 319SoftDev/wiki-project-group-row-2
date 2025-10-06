@@ -53,7 +53,7 @@ The Legend of Zelda: Tears of the Kingdom is a 2023 action-adventure game develo
 
 
 ## Explore genres of Games!!
-**[Fantasy][fantasylol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
+**[Adventure][adlol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
 
-[fantasylol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/fantasy/fent.md
+[adlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
 [horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
