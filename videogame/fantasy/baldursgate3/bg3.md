@@ -80,3 +80,9 @@ Petrified together, Minsc and his beloved hamster sidekick Boo Boo have finally 
 
 
 [![minsc](https://static.wikia.nocookie.net/baldursgate/images/a/a3/Minsc_-_Portraits_%28BG3%29.png/revision/latest?cb=20231002142546&path-prefix=fr)](https://baldursgate.fandom.com/fr/wiki/BG3:Minsc)
+
+## Explore genres of Games!!
+**[Adventure][adlol]** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Horror][horrorlol]**
+
+[adlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/storygame/story.md
+[horrorlol]: https://github.com/319SoftDev/wiki-project-group-row-2/blob/main/videogame/horror/horrorfile.md
